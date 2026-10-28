@@ -134,5 +134,5 @@ psql -U postgres -d fitlife_gym -f portfolio1/MiracleIsa_301905801_P1_SampleData
 
 ---
 
-*MIT 8103 Advanced Database Systems | Rivers State University*
+*MIT 8103 Advanced Database Systems | Miva Open University*
 *Student: MiracleIsa_301905801*
